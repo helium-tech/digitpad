@@ -1,4 +1,4 @@
-package com.example.digitpad
+package com.digitpad.heliumtech
 
 import io.flutter.embedding.android.FlutterActivity
 
